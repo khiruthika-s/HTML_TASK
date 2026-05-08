@@ -1,0 +1,102 @@
+body {
+    background-image: url('./assets/flowers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.Card {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 550px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.Card h1 {
+    width: 400px;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    margin-left: 35px;
+}
+
+.Card h2 {
+    width: 600px;
+    text-align: center;
+    color: rgb(242, 69, 69);
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: underline;
+    margin-left: 35px;
+
+}
+
+.Card img {
+    align-content: center;
+    margin-left: 160px;
+    padding: 10px;
+    text-align: center ;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    margin-right: 0px;
+    align-items: center;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.cards h1 {
+    font-size: 16px;
+}
+
+pre {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card2 {
+    width: 700px;
+}
+
+.line {
+    display: inline-block;
+    width: 700px;
+}
+
+.line p {
+    margin: 30px 70px;
+    width: 600px;
+}
+
+.sign1 {
+    display: inline-block;
+    margin-right: 40px;
+
+}
+
+.signature {
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.sign2 {
+    margin-left: 180px;
+    display: inline-block;
+}
+.list{
+    list-style-type: lower-alpha;
+}
+.font{
+    color: red;
+}
